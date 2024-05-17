@@ -19,11 +19,10 @@ Install dependencies:
 
 npm install
 
-
-For any query contact us on: ranjitsharraf5@gmail.com
-
 Run the application:
 
 cd taxpayweb
 
 npm start
+
+For any query contact us on: ranjitsharraf5@gmail.com
